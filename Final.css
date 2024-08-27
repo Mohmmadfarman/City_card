@@ -1,0 +1,59 @@
+.box{
+    width: 800px;
+    height: 400px;
+    background-color: rgba(74, 111, 128, 0.775);
+    margin: 0 auto;
+    border-radius: 30px;
+    overflow: hidden;
+    margin-bottom: 50px !important;
+    position: relative;
+    
+    
+}
+@media only screen and (max-width: 688px) {
+    .box{
+        width: 450px !important;
+        height: 290px !important;
+    }
+    .im{
+        width:150px !important;
+        height: 101px !important;
+    }
+  }
+  @media only screen and (max-width: 832px) {
+    .box{
+        width: 650px;
+        height: 320px;
+    }
+    .im{
+        width:150px ;
+        height: 110px !important ;
+    }
+  }
+.bbb{
+    position: absolute;
+    right: 10px;
+    margin-top: 10px;
+    padding: 7px;
+    border-radius: 3px;
+    background-color: chartreuse;
+}
+span{
+    color: blue;
+    margin-left: 6px;
+}
+.im{
+    width: 390px;
+    height: 260px;
+    margin-top: 20px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+.t{
+    position: absolute;
+    left: 40px;
+    margin-top: 7px;
+    padding: 9px;
+    background-color: red;
+    border-radius: 3px;
+}

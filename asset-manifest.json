@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AddCity.git/static/css/main.f3d81025.css",
+    "main.js": "/AddCity.git/static/js/main.e7a2ef1e.js",
+    "static/js/453.0147867b.chunk.js": "/AddCity.git/static/js/453.0147867b.chunk.js",
+    "static/media/ladhak.jpg": "/AddCity.git/static/media/ladhak.16d81d679b061333e458.jpg",
+    "static/media/jaipur.jpg": "/AddCity.git/static/media/jaipur.b47243d9433ca64510e4.jpg",
+    "static/media/kasmir.jpg": "/AddCity.git/static/media/kasmir.af8d98923a6963123aca.jpg",
+    "static/media/mmm.jpg": "/AddCity.git/static/media/mmm.7e9df207a4bde0533f40.jpg",
+    "static/media/lucknow.jpg": "/AddCity.git/static/media/lucknow.ea35ae154345120939a4.jpg",
+    "static/media/delhi.jpg": "/AddCity.git/static/media/delhi.9b8c5377fa213b79eb90.jpg",
+    "static/media/goa.jpg": "/AddCity.git/static/media/goa.bd47adc383ce3cfb494b.jpg",
+    "static/media/pune.jpg": "/AddCity.git/static/media/pune.e8dd245b85982f725733.jpg",
+    "static/media/agra.jpg": "/AddCity.git/static/media/agra.fa4aa6c0191016663e78.jpg",
+    "index.html": "/AddCity.git/index.html",
+    "main.f3d81025.css.map": "/AddCity.git/static/css/main.f3d81025.css.map",
+    "main.e7a2ef1e.js.map": "/AddCity.git/static/js/main.e7a2ef1e.js.map",
+    "453.0147867b.chunk.js.map": "/AddCity.git/static/js/453.0147867b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3d81025.css",
+    "static/js/main.e7a2ef1e.js"
+  ]
+}
